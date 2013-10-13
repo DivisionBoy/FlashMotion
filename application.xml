@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.8">
+  <id>FlashMotion</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>FlashMotion</filename>
+  <name>FlashMotion</name>
+  <initialWindow>
+    <title>FlashMotion</title>
+    <content>FlashMotion.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>

@@ -1,0 +1,73 @@
+<node>
+
+	<stick id='01'x='31'y='76'width='277.65'height='214.35'rotation='-6'>
+		<original>assets\stick\stk1.png</original>
+		<thumbnail>assets\stick\thumb01.png</thumbnail>
+	</stick>
+
+	<stick id='11'x='30'y='135'width='262.7'height='259.9'rotation='-27'>
+		<original>assets\stick\stk2.png</original>
+		<thumbnail>assets\stick\thumb11.png</thumbnail>
+	</stick>
+
+	<stick id='21'x='84'y='120'width='202'height='245'rotation='0'>
+		<original>assets\stick\stk3.png</original>
+		<thumbnail>assets\stick\thumb21.png</thumbnail>
+	</stick>
+
+	<stick id='31'x='61'y='163'width='173'height='223'rotation='0'>
+		<original>assets\stick\stk4.png</original>
+		<thumbnail>assets\stick\thumb22.png</thumbnail>
+	</stick>
+
+	<stick id='41'x='25'y='62'width='242'height='307'rotation='0'>
+		<original>assets\stick\stk5.png</original>
+		<thumbnail>assets\stick\thumb23.png</thumbnail>
+	</stick>
+
+	<stick id='51'x='56'y='25'width='190'height='211'rotation='0'>
+		<original>assets\stick\stk6.png</original>
+		<thumbnail>assets\stick\thumb24.png</thumbnail>
+	</stick>
+
+	<stick id='61'x='36'y='73'width='228'height='303'rotation='0'>
+		<original>assets\stick\stk7.png</original>
+		<thumbnail>assets\stick\thumb61.png</thumbnail>
+	</stick>
+
+	<stick id='71'x='30'y='68'width='213.35'height='311.1'rotation='-7'>
+		<original>assets\stick\stk8.png</original>
+		<thumbnail>assets\stick\thumb62.png</thumbnail>
+	</stick>
+
+	<stick id='81'x='55'y='94'width='294.1'height='140.45'rotation='-4'>
+		<original>assets\stick\stk9.png</original>
+		<thumbnail>assets\stick\thumb63.png</thumbnail>
+	</stick>
+
+	<stick id='91'x='73'y='71'width='277'height='177'rotation='0'>
+		<original>assets\stick\stk10.png</original>
+		<thumbnail>assets\stick\thumb64.png</thumbnail>
+	</stick>
+
+	<stick id='101'x='100'y='72'width='223.7'height='151'rotation='-4'>
+		<original>assets\stick\stk11.png</original>
+		<thumbnail>assets\stick\thumb65.png</thumbnail>
+	</stick>
+
+	<stick id='111'x='51'y='37'width='342'height='232'rotation='0'>
+		<original>assets\stick\stk12.png</original>
+		<thumbnail>assets\stick\thumb66.png</thumbnail>
+	</stick>
+
+	<stick id='121'x='77'y='122'width='208.85'height='260.55'rotation='-7'>
+		<original>assets\stick\stk13.png</original>
+		<thumbnail>assets\stick\thumb67.png</thumbnail>
+	</stick>
+
+	<stick id='131'x='129'y='68'width='195'height='269'rotation='0'>
+		<original>assets\stick\stk14.png</original>
+		<thumbnail>assets\stick\thumb68.png</thumbnail>
+	</stick>
+
+</node>
